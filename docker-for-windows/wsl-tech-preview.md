@@ -31,7 +31,7 @@ Download [Docker Desktop Edge 2.1.6.0](https://download.docker.com/win/edge/4080
 
 Ensure you have completed the steps described in the Prerequisites section **before** installing the Docker Desktop Edge release.
 
-1. Follow the usual Docker Desktop installation instructions to install Docker Desktop.
+1. Follow the usual Docker Desktop installation instructions to install Docker Desktop, selecting Use Linux Containers.
 2. Start Docker Desktop from the Windows Start menu.
 3. From the Docker menu, select **Settings** > **General**.
 
